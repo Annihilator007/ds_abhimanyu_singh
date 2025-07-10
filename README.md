@@ -10,8 +10,7 @@ This project explores how trader behavior aligns or diverges from market sentime
 
 ## Folder Structure
 
-<pre> ## 📁 Project Structure ``` ds_abhimanyu_singh/ ├── notebook_1.ipynb ├── csv_files/ │ ├── fear_greed_index.csv │ └── historical_data.csv ├── outputs/ │ ├── profitability_by_sentiment.png │ ├── trade_volume_by_sentiment.png │ └── leverage_proxy_by_sentiment.png ├── ds_report.pdf └── README.md ``` </pre>
-
+<pre lang="text"><code> ## 📁 Project Structure ``` ds_abhimanyu_singh/ ├── notebook_1.ipynb ├── csv_files/ │ ├── fear_greed_index.csv │ └── historical_data.csv ├── outputs/ │ ├── profitability_by_sentiment.png │ ├── trade_volume_by_sentiment.png │ └── leverage_proxy_by_sentiment.png ├── ds_report.pdf └── README.md ``` </code></pre>
 
 ## Key Insights
 - Greed phases have higher profitability.
